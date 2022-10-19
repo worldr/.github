@@ -1,20 +1,32 @@
 ## Descriptions
-<!---
-The title should be in the following format:
 
-    type: short, but clear task description [#XXXX]
+## Check list before review
 
-More details: https://wiki.worldr.co.uk/en/task-flow
--->
+🙏 Check(s) to perform _before_ asking for review for anyone.
+
+- [ ] Ensure the title complies with [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/).
+  > Example: `feat: example [#00000000]`
+  >
+  > More details:
+  > https://wiki.worldr.co.uk/en/task-flow
+- [ ] Set the correct [flowfast link](#flowfast).
+- [ ] Fill in the description [for developers](#for-developers) and [for customers](#for-customers) if relevant.
+- [ ] Mark correct [types of changes](#types-of-changes).
+- [ ] Ensure there are tests, or an explanation as to why they are not needed.
+- [ ] Ensure there is documentation, or an explanation as to why it is not needed.
+- [ ] Rebase on top of `main` branch before review and before merging.
+- [ ] Ensure that CI/CD passed.
 
 ### For developers
 
 <!--- A description of what this pull request does. -->
 
-<!---
 ### For customers
 
+<!---
 If this section exists, then it means that the description in this block should be included in the release notes.
+
+Feel free to delete this section.
 -->
 
 ## FlowFast
