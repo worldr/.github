@@ -16,6 +16,7 @@
 - [ ] Ensure there is documentation, or an explanation as to why it is not needed.
 - [ ] Rebase on top of `main` branch before review and before merging.
 - [ ] Ensure that CI/CD passed.
+- [ ] Review the changes by yourself.
 
 ### For developers
 
