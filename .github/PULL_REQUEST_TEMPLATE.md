@@ -1,6 +1,6 @@
 ## Descriptions
 
-## Check list before review
+## Checklist before review
 
 🙏 Check(s) to perform _before_ asking for review for anyone.
 
@@ -20,7 +20,7 @@
 
 ### For developers
 
-<!--- A description of what this pull request does. -->
+<!--- A description of what this pull request does as a short, bullet-point summary. -->
 
 ### For customers
 
